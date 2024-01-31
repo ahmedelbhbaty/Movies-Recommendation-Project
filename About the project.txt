@@ -1,0 +1,1 @@
+The user information from the system's database is used by the ML algorithms for these recommendation systems. Based on information from the past, this data is used to predict the user in question's behavior in the future. ☺
